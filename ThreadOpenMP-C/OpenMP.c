@@ -1,3 +1,8 @@
+/*
+* GitHub: github.com/MatheusHash
+* Author: MatheusHash
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
